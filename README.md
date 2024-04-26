@@ -1,4 +1,4 @@
-# Text_Summarization_and_Generation
+# Text_Summarization_and_Generation (Using LSTM/NLP & Pre-trained Transformers).
 
 Certainly! Here's a draft for your README file on GitHub:
 
